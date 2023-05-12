@@ -9,7 +9,7 @@ This turborepo uses [pnpm](https://pnpm.io) as a package manager. It includes th
 ### Apps and Packages
 
 - `web`: another [Next.js](https://nextjs.org/) app with [Tailwind CSS](https://tailwindcss.com)
-- `tailwind-config`: `tailwind.config.json`'s used throughout the monorepo
+- `tailwind-config`: `tailwind.config.js`'s used throughout the monorepo
 - `eslint-config-custom`: `eslint` configurations
 - `tsconfig`: `tsconfig.json`s used throughout the monorepo
 
